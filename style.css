@@ -1,0 +1,488 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.box {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.box button {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+.section {
+    width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.item {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h3 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p1 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+
+.item1 {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm1 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img1 {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h31 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p111 {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p11 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn1 {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+
+.item2 {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm2 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img2 {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h32 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p112 {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p12 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn2 {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+.item3 {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm3 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img3 {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h33 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p113 {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p13 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn3 {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+
+.item4 {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm4 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img4 {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h34 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p114 {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p14 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn4 {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+.item5 {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm5 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img5 {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h35 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p115 {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p15 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn5 {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+.item6 {
+    width: 250px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid black; 
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.itemm6 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin-left: 100px;
+    
+}
+                
+.img6 {
+    width: 100px;
+    height: 120px;
+   margin-left: 67px;
+   margin-top: 10px;
+}
+
+
+
+.h36 {
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.p116 {
+    color: azure;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.p16 {
+    color: white;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.btnn6 {
+    width: 200px;
+    height: 40px;
+    border-radius: 7px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
